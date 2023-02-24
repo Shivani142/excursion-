@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    text-align: center;
+   
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 50px;
+    flex-direction: column;
+}
+h3{
+    color: grey;
+    font-size: 30px;
+}
+
+img.phone {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50px;
+    margin-top: 20px;
+}
+p{
+    color: Gray;
+    font-size: 21px;
+    display: block;
+    margin-left: 1050px;
+}
+a{
+    color: aquamarine;
+    cursor: pointer;
+    font-size: 20px;
+}
